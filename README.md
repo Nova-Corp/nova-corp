@@ -23,11 +23,10 @@
 - PHP
 
 ## 📫 How to reach me:
-- [Email](shanmugarajeshwaranr@gmail.com)
-- [Github](github.com/shanmugam105)
-- [LinkedIn](linkedin.com/in/reach-to-shan)
+- [Email](mailto:shanmugarajeshwaranr@gmail.com)
+- [Github](https://www.github.com/shanmugam105)
+- [LinkedIn](https://www.linkedin.com/in/reach-to-shan)
 - [Instagram](https://www.instagram.com/sharveshwaran.r)
-- [insta](http://lasdb-development.org/img/footer-instagram.png)
 
 ##
 > ⚡ Fun fact: I'm Electronincs and Communication Engineer
