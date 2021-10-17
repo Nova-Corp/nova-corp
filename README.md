@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+## Currently i'm working as iOS Developer in Sparkout Tech Solution
+## 📫 How to reach me:
+- [Email](shanmugarajeshwaranr@gmail.com)
+- [Github](github.com/shanmugam105)
+- [LinkedIn](linkedin.com/in/reach-to-shan)
+- [Instagram](https://www.instagram.com/sharveshwaran.r)
+- [insta](http://lasdb-development.org/img/footer-instagram.png)
+- ![Github](http://lasdb-development.org/img/footer-instagram.png)
+
 
 <!--
 **Nova-Corp/nova-corp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
