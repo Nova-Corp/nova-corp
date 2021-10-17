@@ -29,11 +29,11 @@
 - [LinkedIn](https://www.linkedin.com/in/reach-to-shan)
 - [Instagram](https://www.instagram.com/sharveshwaran.r)
 ##
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nova-corp&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nova-corp)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nova-corp&show_icons=true)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nova-corp)](#)
 
-![Visits](https://badges.pufler.dev/visits/nova-corp/nova-corp?style=rounded-square&color=material&logo=github)
-![Years](https://badges.pufler.dev/years/nova-corp?style=rounded-square&color=material&logo=github)
+[![Visits](https://badges.pufler.dev/visits/nova-corp/nova-corp?style=rounded-square&color=material&logo=github)](#)
+[![Years](https://badges.pufler.dev/years/nova-corp?style=rounded-square&color=material&logo=github)](#)
 
 ##
 > ⚡ Fun fact: I'm Electronincs and Communication Engineer
