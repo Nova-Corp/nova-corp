@@ -11,11 +11,11 @@
 ## 📚 Learning
 - [x] RxSwift
 - [x] SwiftUI
-- [ ] Combine
+- [x] Combine
 - [ ] Unit Testing
 - [ ] UI Testing
 - [x] SSL Pinning
-- [ ] MVVMC
+- [x] MVVMC
 - [x] Custom framework
 
 ## Other Domains
